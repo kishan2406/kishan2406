@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kishan Prajapati</h1>
-<h3 align="center">A passionate Full Stack Web Developer, Specialization in MERN, from India</h3>
+<h3 align="center">A passionate Full Stack Web Developer, Specialization in MERN/MEAN, from India</h3>
 <p>Good problem solver, team player and 
 curious, with a keen interest in building user-centric products. 
 Looking forward to emerging myself as a proficient software 
