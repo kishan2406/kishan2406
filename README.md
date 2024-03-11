@@ -8,13 +8,13 @@ developer.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishan2406&label=Profile%20views&color=0e75b6&style=flat" alt="kishan2406" /> </p>
 
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **Angular**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Angular**
 
 - 📝 I regularly write articles on [https://medium.com/@kishanp240695](https://medium.com/@kishanp240695)
 
-- 💬 Ask me about **MERN, JS**
+- 💬 Ask me about **MERN,MEAN**
 
 - 📫 How to reach me **kishanp240695@gmail.com**
 
